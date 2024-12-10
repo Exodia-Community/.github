@@ -12,7 +12,7 @@
   </ul>
 </div>
 
-**<h3 align="left">Connect with me:</h3>** 
+**<h3 align="left">Connect with us:</h3>** 
 <p align="left"><a href="https://twitter.com/axylprojects" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/exodia-community" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
  **<h3 align="left">🚀 Passionate Exodia-OS Users aiming to make a Community Edition to help people when it comes to working on projects related to the upstream ExodiaOS Projects</h3>**
