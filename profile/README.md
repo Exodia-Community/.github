@@ -1,4 +1,4 @@
-![👋 Hi, we are the Exoida-Community](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
+![👋 Hi, we are the Exoida-Community](https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif)
 
 ![Profile views](https://komarev.com/ghpvc/?username=exodia-community&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -15,12 +15,12 @@
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://twitter.com/axylprojects" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/exodia-community" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">🚀 Passionate fullstack web developer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization.</h3>**
+ **<h3 align="left">🚀 Passionate Exodia-OS Users aiming to make a Community Edition to help people when it comes to working on projects related to the upstream ExodiaOS Projects</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 We are currently working on: **💻 Developing a Community Version of ExodiaOS**
-- 💬 Ask us about: **💡 Arch Operating System Development**
+- 💼 I'm currently working on: **💻 Developing a Community Version of ExodiaOS**
+- 💬 Ask me about: **💡 Arch Operating System Development**
 - ⚡ Fun fact: **🎢 we once debugged a issue while on a roller coaster!**
 - 📂 Portfolio: **<a href="exoida-community.github.io" target="_blank">exoida-community.github.io</a>**
 - 📝 Blog: **<a href="axyl.blog" target="_blank">axyl.blog</a>**
