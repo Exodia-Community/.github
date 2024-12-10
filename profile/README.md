@@ -19,8 +19,8 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **💻 Developing a Community Version of ExodiaOS**
-- 💬 Ask me about: **💡 Arch Operating System Development**
+- 💼 We currently working on: **💻 Developing a Community Version of ExodiaOS**
+- 💬 Ask us about: **💡 Arch Operating System Development**
 - ⚡ Fun fact: **🎢 we once debugged a issue while on a roller coaster!**
 - 📂 Portfolio: **<a href="exoida-community.github.io" target="_blank">exoida-community.github.io</a>**
 - 📝 Blog: **<a href="axyl.blog" target="_blank">axyl.blog</a>**
@@ -36,6 +36,6 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sushilmagare10&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 </p>
 
- **<h3 align="left">Support Me</h3>**
+ **<h3 align="left">Support Us</h3>**
 
 <p align="left"><a href="https://www.patreon.com/axylprojects" target="_blank"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" height="36" style="margin-right: 4px"></a></p>
